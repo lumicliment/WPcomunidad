@@ -1,31 +1,13 @@
-**ENLACES SOBRE WordPress COMUNIDAD:**
+La Comunidad de WordPress España es una agrupación de personas apasionadas por WordPress, incluyendo desde usuarios básicos hasta desarrolladores y profesionales del diseño y la accesibilidad. Este colectivo se dedica a mejorar y fortalecer la presencia de WordPress a través de varios equipos especializados.
 
-**Web WordPress España:** https://es.wordpress.org/ <br>
-Página principal de WordPress España.
+Por ejemplo, el equipo de Soporte se enfoca en responder preguntas en los foros de soporte, ayudando a usuarios a resolver sus dudas.
 
-**Página de Comunidad España:** https://es.wordpress.org/team/ <br>
-Página de los Equipos de Trabajo de WordPress España.
+Además, el equipo de Traducciones trabaja para hacer WordPress accesible en español, traduciendo el sistema de gestión de contenidos y sus extensiones.
 
-**Equipos de WordPress España:** https://es.wordpress.org/team/handbook/equipo/ <br>
-Pagina con el listado de lòs responsables de cada uno de las Equipos de Trabajo de WordPress España.
+El equipo de Diseño se ocupa de la experiencia de usuario, la interfaz y el diseño visual de WordPress, mientras que el equipo de TV gestiona la publicación y moderación de vídeos relacionados con la plataforma.
 
-**Web WordPress Global:** https://wordpress.org/ <br>
-Página principal de WordPress Global (Inglés).
+El equipo de Marketing se dedica a promocionar WordPress y sus ventajas, y el equipo de Hosting mejora la experiencia del usuario en los entornos de alojamiento.
 
-**Equipos de WordPress Global (Make):** https://make.wordpress.org/ <br>
-Página de los Equipos de Trabajo de WordPress Global (Inglés).
+Por último, el equipo de Accesibilidad ayuda a asegurar que WordPress sea accesible para todos, colaborando en la traducción de plugins adaptados y promoviendo contenido accesible en el sitio.
 
-**Eventos WordPress:** https://events.wordpress.org/ <br>
-Listado de los Eventos oficiales de WordPress en los proximos méses (Inglés).
-
-**Profile wordpress.org:** https://profiles.wordpress.org/nombreusuario/ <br>
-Mi pagina de usuario de "wordpress.org".
-
-**Gravatar:** https://es.gravatar.com/ <br>
-Servicio web para que nuestra foto o avatar aparezca en determinados servicios web, y en WordPress.
-
-**Slack WordPress España:** https://wpes.slack.com/ <br>
-Canales de Slack de WordPress España.
-
-**Slack WordPress Global:** https://wordpress.slack.com <br>
-Canales de Slack de WordPress Global (Inglés).
+¡Todos son bienvenidos! Esto puede incluir a personas que simplemente estén interesadas en cómo funciona la Comunidad, o que quieran implicarse en alguna de las tareas de voluntariado que se ofrecen.
