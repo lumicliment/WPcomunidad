@@ -1,6 +1,6 @@
 **ENLACES SOBRE WordPress COMUNIDAD:**
 
-**Web WordPress España:** https://es.wordpress.org/ 
+**Web WordPress España:** https://es.wordpress.org/ <br>
 Página principal de WordPress España.
 
 **Página de Comunidad España:** https://es.wordpress.org/team/ 
