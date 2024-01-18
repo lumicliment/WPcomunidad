@@ -9,16 +9,16 @@ https://es.wordpress.org/team/
 Equipos de WordPress España:
 https://es.wordpress.org/team/handbook/equipo/
 
-Web WP Global:
+Web WordPress Global:
 https://wordpress.org/
 
 Equipos de WordPress Global (Make)
 https://make.wordpress.org/
 
-Eventos WP:
+Eventos WordPress:
 https://events.wordpress.org/
 
-Profile wp.org:
+Profile wordpress.org:
 https://profiles.wordpress.org/nombreusuario/
 
 Gravatar:
