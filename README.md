@@ -1,3 +1,5 @@
+## Sobre la Comunidad WordPress de España:
+
 La Comunidad de WordPress España es una agrupación de personas apasionadas por WordPress, incluyendo desde usuarios básicos hasta desarrolladores y profesionales del diseño y la accesibilidad. Este colectivo se dedica a mejorar y fortalecer la presencia de WordPress a través de varios equipos especializados.
 
 Por ejemplo, el equipo de Soporte se enfoca en responder preguntas en los foros de soporte, ayudando a usuarios a resolver sus dudas.
@@ -13,6 +15,5 @@ Por último, el equipo de Accesibilidad ayuda a asegurar que WordPress sea acces
 ¡Todos son bienvenidos! Esto puede incluir a personas que simplemente estén interesadas en cómo funciona la Comunidad, o que quieran implicarse en alguna de las tareas de voluntariado que se ofrecen.
 
 
-##
 ## Código QR de este repositorio:
 ![qrcode-github-wpcomunidad](https://github.com/lumicliment/WPcomunidad/assets/148436250/30df20ba-5520-4dd8-b32a-44a4eae1a708)
