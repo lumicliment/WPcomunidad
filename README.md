@@ -14,6 +14,6 @@ Por último, el equipo de Accesibilidad ayuda a asegurar que WordPress sea acces
 
 ---
 
-Código QR de WPcomunidad en GitHub:
+## Código QR de este repositorio:
 
 ![qrcode-github-wpcomunidad](https://github.com/lumicliment/WPcomunidad/assets/148436250/30df20ba-5520-4dd8-b32a-44a4eae1a708)
