@@ -29,3 +29,6 @@ Canales de Slack de WordPress España.
 
 **Slack WordPress Global:** https://wordpress.slack.com <br>
 Canales de Slack de WordPress Global (Inglés).
+
+**Meetup.com:** https://meetup.com <br>
+Sitio desde donde se organizan y anuncian todas las Meetups oficiales de WordPress (Español-Inglés).
