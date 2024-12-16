@@ -32,3 +32,6 @@ Canales de Slack de WordPress Global (Inglés).
 
 **Meetup.com:** https://meetup.com <br>
 Sitio desde donde se organizan y anuncian todas las Meetups oficiales de WordPress (Español-Inglés).
+
+**Próximos Eventos (Mundial):** https://meetup.com <br>
+Póximos Eventos, WordPress (Meetups, WordCamps, Eventos WP, etc.).
