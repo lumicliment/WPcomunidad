@@ -40,4 +40,7 @@ Mapa mundial con todas las Meetups oficiales de WordPress (Español-Inglés).
 Póximos Eventos, WordPress (Meetups, WordCamps, Eventos WP, etc.).
 
 **Quedadas WordPress en Español:** https://www.meetup.com/es-ES/quedadas-wordpress-en-espanol/
-Reuniones mensuales de encuentro, participación, formación y aclaración de dudas (El primer Lunes de cada mes).
+Reuniones mensuales de España y Latinoamérica (El primer Lunes de cada mes).
+
+**WordPress Latinoamérica:** https://www.meetup.com/es-ES/wplatam/
+Reuniones periódicas de miembros de WordPress de Latinoamérica.
